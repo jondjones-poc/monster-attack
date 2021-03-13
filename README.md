@@ -1,4 +1,4 @@
-# Introduction
+# Monster Attack - By Jon D Jones 💥
 
 You will be coding a simple “Battle Simulator” for an RPG. You should spend around 1-2 hours completing this.
 The simulator should be developed in JavaScript or TypeScript using React. It is preferred but not required to use reducer-based state management (e.g useReducer, Redux). You may use any other libraries or UI frameworks you wish so long as you have implemented the core requirements yourself.
