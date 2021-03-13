@@ -12,6 +12,8 @@ Your solution can be provided as a zip/rar file, or as a link to a github reposi
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4545b049-6dfd-4240-ba1a-215f4bb38915/deploy-status)](https://app.netlify.com/sites/monster-attack-poc/deploys)
 
+👾☄️👻👺🕹️
+
 ## The Spec
 
 In this game you (The Player) are fighting some kind of monster (your choice). Both characters begin with 100
